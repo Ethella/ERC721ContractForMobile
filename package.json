@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Ethella/ERC721ContractForMobile#readme",
   "devDependencies": {
     "@openzeppelin/contracts": "^4.7.0"
+  },
+  "dependencies": {
+    "web3": "^1.7.4"
   }
 }
