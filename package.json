@@ -1,0 +1,23 @@
+{
+  "name": "ERC721ContractForMobile",
+  "version": "1.0.0",
+  "description": "Install solc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ethella/ERC721ContractForMobile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ethella/ERC721ContractForMobile/issues"
+  },
+  "homepage": "https://github.com/Ethella/ERC721ContractForMobile#readme",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.7.0"
+  }
+}
